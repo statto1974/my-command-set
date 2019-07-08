@@ -1,6 +1,6 @@
 ## my-command-set
 
-This is where you include your WebPart documentation.
+Source code for blog post - [Showing a ListView CommandSet if a user is in a SharePoint Group](https://wutek.co.uk/2019/07/08/Showing-a-ListView-CommandSet-if-a-user-is-in-a-SharePoint-Group/)
 
 ### Building the code
 
