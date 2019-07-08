@@ -1,0 +1,21 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/command-set-extension-manifest.schema.json",
+
+  "id": "164e52a6-4d00-44c7-9666-2c49a0a36204",
+  "alias": "SecurableCommandSetCommandSet",
+  "componentType": "Extension",
+  "extensionType": "ListViewCommandSet",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false,
+
+  "items": {
+    "CMD_SECURE": {
+      "title": { "default": "Secret Command" },
+      "iconImageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADySURBVDhPjdKtEgFRGMbxZfYCREEQBFEQBVFwAS5AdAEaM6LAjIsQBMEFCARdoLkAYYNAMMP/2Q+zu8funmfmN+ddc/Y9H9YhK3xybOAiM5qUlSkeyGxSDse8LMNxDaOJTYMOruhBTRIpQUfQ+C/dUJQJjLl5d5COMTd+BK2kCf/Ed2FEE2xjzC3awR5KFfpelAtU1/wnYnRNRS+fMUcbLcxwRx2/BukdRKsvEK2uv7QflM4YWxVFO9DqWlVphJQKPJsPSV/fKyj9HYjyhmvT4IhBUCai304qio6gS7xhhCZ0hCE8+EfbIX55RZ44gJcd5wuMIkg5QYvgbAAAAABJRU5ErkJggg==",
+      "type": "command"
+    }
+  }
+}
